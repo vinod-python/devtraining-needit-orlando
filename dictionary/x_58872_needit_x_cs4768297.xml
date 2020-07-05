@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="alm_asset" label="x_CS4768297" max_length="40" name="x_58872_needit_x_cs4768297" sizeclass="9" type="collection">
+        <element label="in stock date" max_length="40" name="u_in_stock_date" type="glide_date"/>
+        <element label="test date" max_length="40" name="u_test_date" type="glide_date"/>
+        <element label="test datetime" max_length="40" name="u_test_datetime" type="glide_date_time"/>
+    </element>
+</database>
